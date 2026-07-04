@@ -15,6 +15,6 @@
 
 ## About Me
 
-I develops and studies Deep Learning architectures, with a deep obsession for understanding things from the ground up—whether that's training CNNs, Vision Transformers (ViTs), optimizing RAG pipelines, or deploying with Docker.
+I develop and study Deep Learning architectures, with a deep obsession for understanding things from the ground up—whether that's training CNNs, Vision Transformers (ViTs), optimizing RAG pipelines, or deploying with Docker.
 
 I work across AI engineering, multimodal systems, and containerized deployment. I believe the best way to truly understand an algorithm is to build it yourself.
