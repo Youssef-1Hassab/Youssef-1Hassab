@@ -18,3 +18,12 @@
 I develop and study Deep Learning architectures, with a deep obsession for understanding things from the ground up—whether that's training CNNs, Vision Transformers (ViTs), optimizing RAG pipelines, or deploying with Docker.
 
 I work across AI engineering, multimodal systems, and containerized deployment. I believe the best way to truly understand an algorithm is to build it yourself.
+
+## 🌟 Featured Projects
+
+### 🎙️ Project SHATO — Speech-to-Action Orchestrator
+> *Voice → LLM → Validated Action → Speech. End-to-end.*
+
+My most complete system to date. SHATO is a fully containerized, microservices-based voice pipeline where each stage (STT, LLMs+RAG, Validator, TTS) lives as an independent FastAPI service orchestrated via Docker Compose. It includes a Gradio UI, a single REST endpoint (`POST /process_audio`) that returns everything in one shot, and a custom data pipeline to augment RAG training examples.
+
+**Stack:** Python · FastAPI · Docker · LLMs · RAG · Speech Processing
