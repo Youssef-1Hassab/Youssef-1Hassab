@@ -53,8 +53,13 @@ An ongoing research project combining deep learning with audio signal processing
 ## 🛠️ Tech Stack
 
 **Languages:** Python · C · C++ · Java · JavaScript · MATLAB · Shell
+
 **AI/ML:** TensorFlow · NumPy · Scikit-learn · Deep Learning · NLP · RAG · LLMs · Computer Vision
+
 **Networking:** TCP/IP · Digital & Wireless Communications · Signal Processing
+
 **Systems:** Threading · IPC · Process Management · Parallel Computing
+
 **DevOps:** Docker · Docker Compose · CI/CD · Microservices · FastAPI
+
 **Data:** Pandas · Matplotlib · SQL · ETL Pipelines · Statistical Analysis
