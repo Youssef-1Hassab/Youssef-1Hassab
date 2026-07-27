@@ -40,10 +40,10 @@ An ongoing research project combining deep learning with audio signal processing
 
 ---
 
-**## 🔧 Other Projects Worth Noting
+## 🔧 Other Projects Worth Noting
 
 | Domain | Project | What it is |
 | :--- | :--- | :--- |
 | 🧠 ML | [Neural Network from Scratch](https://github.com/Youssef-1Hassab/neural-network-from-scratch) | Full backprop + gradient descent, NumPy only |
 | 🧠 ML | [Unsupervised Learning Pipeline](https://github.com/Youssef-1Hassab/unsupervised-learning-from-scratch) | PCA, Autoencoders, K-Means, GMM — benchmarked |
-| 🧠 ML | [Decision Trees & Random Forest](https://github.com/Youssef-1Hassab/decision-trees-random-forest_from_scratch_probabilistic-classifier) | Ensemble methods built from scratch |**
+| 🧠 ML | [Decision Trees & Random Forest](https://github.com/Youssef-1Hassab/decision-trees-random-forest_from_scratch_probabilistic-classifier) | Ensemble methods built from scratch |
