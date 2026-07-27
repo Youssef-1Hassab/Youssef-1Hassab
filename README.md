@@ -27,7 +27,9 @@ I work across AI engineering, multimodal systems, and containerized deployment. 
 My most complete system to date. SHATO is a fully containerized, microservices-based voice pipeline where each stage (STT, LLMs+RAG, Validator, TTS) lives as an independent FastAPI service orchestrated via Docker Compose. It includes a Gradio UI, a single REST endpoint (`POST /process_audio`) that returns everything in one shot, and a custom data pipeline to augment RAG training examples.
 
 **Stack:** Python · FastAPI · Docker · LLMs · RAG · Speech Processing
+
 ---
+
 ### 🫀 Heart Sound Diagnosis AI
 
 *Detecting cardiac conditions through sound.*
