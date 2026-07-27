@@ -47,3 +47,14 @@ An ongoing research project combining deep learning with audio signal processing
 | 🧠 ML | [Neural Network from Scratch](https://github.com/Youssef-1Hassab/neural-network-from-scratch) | Full backprop + gradient descent, NumPy only |
 | 🧠 ML | [Unsupervised Learning Pipeline](https://github.com/Youssef-1Hassab/unsupervised-learning-from-scratch) | PCA, Autoencoders, K-Means, GMM — benchmarked |
 | 🧠 ML | [Decision Trees & Random Forest](https://github.com/Youssef-1Hassab/decision-trees-random-forest_from_scratch_probabilistic-classifier) | Ensemble methods built from scratch |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C · C++ · Java · JavaScript · MATLAB · Shell
+**AI/ML:** TensorFlow · NumPy · Scikit-learn · Deep Learning · NLP · RAG · LLMs · Computer Vision
+**Networking:** TCP/IP · Digital & Wireless Communications · Signal Processing
+**Systems:** Threading · IPC · Process Management · Parallel Computing
+**DevOps:** Docker · Docker Compose · CI/CD · Microservices · FastAPI
+**Data:** Pandas · Matplotlib · SQL · ETL Pipelines · Statistical Analysis
